@@ -21,8 +21,8 @@ The program itself is divided into 2 scripts, 1 for the called 'server.c' and an
 1: Copy both downloaded files into a new directory (This directory will be used to compile and run both scripts later on)  
 2: Using a terminal, switch into the new directory to confirm both files are inside using ls -l  
 3: For the purpose of this demonstration, the GCC will be used (GNU Compiler Collection) to compile both programs.  
-4: run the following command to compile the server script: gcc client.c -o client -lpthread  
-5: run the following command to compile the client script: gcc server.c -o server -lpthread  
+4: run the following command to compile the server script: gcc server.c -o server -lpthread  
+5: run the following command to compile the client script: gcc client.c -o client -lpthread  
 6: Execute the compiled server script first: ./server (Note that the order in which you execute the program is important, executing the client script before the server will result in an error.)  
 7: Execute the compiled client script next: ./client 
 
