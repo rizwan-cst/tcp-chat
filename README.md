@@ -48,7 +48,7 @@ As seen from the header files, this program implements multi-threading to allow 
 ## Resources
 
 This project couldn't have been done without the help of the following resources:  
-GeeksforGeeks  
+GeeksforGeeks - Understanding TCP 
 Beej's Guide to Network Programming  
 Socket Programming - Dan Gookins  
 Socket Programming - Jacob Sorber
